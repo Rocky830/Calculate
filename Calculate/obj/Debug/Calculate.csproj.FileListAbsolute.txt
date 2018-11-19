@@ -1,0 +1,10 @@
+D:\GitHub\Calculate\Calculate\bin\Debug\Calculate.exe.config
+D:\GitHub\Calculate\Calculate\bin\Debug\Calculate.exe
+D:\GitHub\Calculate\Calculate\bin\Debug\Calculate.pdb
+D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.exe
+D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.pdb

@@ -8,3 +8,12 @@ D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
 D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
 D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.exe
 D:\GitHub\Calculate\Calculate\obj\Debug\Calculate.pdb
+D:\Project\Calculate\bin\Debug\Calculate.exe.config
+D:\Project\Calculate\obj\Debug\Calculate.exe
+D:\Project\Calculate\obj\Debug\Calculate.pdb
+D:\Project\Calculate\bin\Debug\Calculate.exe
+D:\Project\Calculate\bin\Debug\Calculate.pdb
+D:\Project\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+D:\Project\Calculate\obj\Debug\Calculate.Form1.resources
+D:\Project\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\Project\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
